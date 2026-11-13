@@ -66,3 +66,7 @@ swift test
 # against a local server, with an app key from your account:
 QUIETLYTICS_TEST_ENDPOINT=http://localhost:3100/api/app-event QUIETLYTICS_TEST_KEY=qla_… swift test
 ```
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
